@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasKLange
 - 👀 I’m interested in java, Next.JS
-- 🌱 I’m currently learning Java, HTML, CSS, Java Script
+- 🌱 I’m currently learning Java, HTML, CSS, Java Script, Visual Studio and PortugolSudio
 
 
 <!---
