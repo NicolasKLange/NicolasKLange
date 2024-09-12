@@ -43,9 +43,3 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nicolasKLange/nicolasKLange/output/snake.svg" alt="Snake animation" />
-
-###
