@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasKLange
-- 👀 I'm interested in back-end and front-end programming
-- 💞️ I'm looking to collaborate on an opportunity to develop new projects and start working in technology companies
+- 👀 Back-end, front-end programming and UX & UI design
+- 💞️ Collaborative, Proactive, Innovative, Creative
 - 📓 My portfolio is https://meu-portifolio-nicolas-git-main-nicolas-langes-projects.vercel.app
 - 📫 How to reach me by email: nklange986@gmail.com.br 
 
